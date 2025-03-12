@@ -49,7 +49,7 @@ def convert_units(value, unit_from, unit_to):
     return value * conversions[key] if key in conversions else "Conversion not supported"
 
 # Title with white color
-st.title("⚫ Unit Converter")
+st.title("🔄 Unit Converter")
 
 # User input fields
 value = st.number_input("Enter the value:", min_value=0.0, value=0.0)
