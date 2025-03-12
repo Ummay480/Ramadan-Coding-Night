@@ -2,5 +2,9 @@
     {
         "task": "buy grocery for Sehri and Iftari",
         "done": false
+    },
+    {
+        "task": "Buy groceries",
+        "done": false
     }
 ]
